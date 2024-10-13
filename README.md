@@ -66,5 +66,6 @@
 *You can familiarize yourself with the solutions to the tasks by exploring the respective sections in this repository. We have provided a detailed description of each step in the model development process, along with the corresponding scripts.*
 
 
-####Yours faithfully,
-####Frizen Daniil, Stepan Martynovich and Egor Bergner
+Yours faithfully,
+
+Frizen Daniil, Stepan Martynovich and Egor Bergner
