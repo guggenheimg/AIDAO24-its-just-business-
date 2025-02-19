@@ -2,7 +2,7 @@
 
 Добро пожаловать в репозиторий команды **It's Just Business**, участвовавшей в олимпиаде **<a href="https://education.yandex.ru/aidao-ru">AIDAO24</a><br>**. В этом репозитории представлены решения двух заданий конкурса, в которых мы подробно описали наш подход, включая обработку данных, выбор моделей и настройку гиперпараметров.
 
-*Welcome to the repository of the **It's Just Business** team, which participated in the **AIDAO24** competition. In this repository, we present solutions for two tasks from the competition, where we describe our approach, including data processing, model selection, and hyperparameter tuning.*
+*Welcome to the repository of the **It's Just Business** team, which participated in the **<a href="https://education.yandex.ru/aidao-ru">AIDAO24</a><br>** competition. In this repository, we present solutions for two tasks from the competition, where we describe our approach, including data processing, model selection, and hyperparameter tuning.*
 
 ## Решение первого задания
 *Solution for the first task*
