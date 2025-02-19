@@ -69,8 +69,3 @@
 Yours faithfully,
 
 <a href="https://github.com/guggenheimg">Frizen Daniil</a><br>, <a href="https://github.com/Stedjey">Stepan Martynovich</a><br> and <a href="https://github.com/EgorBerg">Egor Bergner</a><br>
-
-<a href="https://github.com/guggenheimg">Frizen Daniil</a><br>
-<a href="https://github.com/Stedjey">Stepan Martynovich</a><br>
-<a href="https://github.com/EgorBerg">Egor Bergner</a><br>
-
