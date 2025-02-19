@@ -69,3 +69,6 @@
 Yours faithfully,
 
 Frizen Daniil, Stepan Martynovich and Egor Bergner
+
+<a href="https://github.com/guggenheimg">Frizen Daniil</a><br>
+
